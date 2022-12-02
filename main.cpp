@@ -1,6 +1,5 @@
 // read https://www.geeksforgeeks.org/how-to-split-a-string-in-cc-python-and-java/
 
-// Matthew Levin
 // 12/1/2022
 // cosc a211
 // term project v1.0
